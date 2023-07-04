@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="launcher">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/launcher/launcher-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/launcher/launcher-1.0-all.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
